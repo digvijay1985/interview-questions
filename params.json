@@ -1,0 +1,6 @@
+{
+  "name": "Interview-questions",
+  "tagline": "Interview Questions",
+  "body": "### Interview Questions Asked\r\n\r\n**_PHP & MySQl Questions_**\r\n\r\n1. **What are namespaces in php ? Give an example.**\r\n2. **What are Interface in php ? Give an example.**\r\n3. **What are abstract class in php ? Give an example.**\r\n4. **What is Diffrence between Absctact Class and Interface.**\r\n5. **Does PHP supports multiple inheritance? if yes how. ?**\r\n6. **What is Dispactcher in CakePHP ? How it works ?**\r\n7. **What Directory Structue of CakePHP ?** \r\n8. **What is Diffrence MYISAM and Innodb Engines in MySQL. ?**\r\n9. **How to delete duplicate rows from MySql Table with help of SQL query ?**\r\n10. **What is diffrence between Overloading and Overriding in PHP**\r\n11. **What is Composer? How do you use in your Project?**\r\n12. \r\n\r\n---\r\n**_Javascript, jQuery & AJAX Questions_**\r\n\r\n1. **What is diffrence Between jQuery and Javascript ?**\r\n2. **How many types of selectors are there in jQuery ?**\r\n3. **How do you count all checkbox in a page that is checked ?**\r\n4. **How do you Select third item in navgation list ?**\r\n5. **What is diffrence between text() and html() in jQuery ?**\r\n6. \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
